@@ -5,6 +5,13 @@ Este proyecto consiste en el despaletizado de cajas que ingresan al sistema con 
 desenmontadas por el robot IRB 4600 ABB y su IRBT2005_IRB y colocadas en un stand para luego ser movidas por los operarios a
 diversas áreas de la bodega en función.
 
+# Entregable de proyecto
+https://1drv.ms/u/s!AnpN2TbP8iDHlWqpQomN2TpDSFl_?e=KHP8du
+
+# Simulación de proyecto
+https://1drv.ms/u/s!AnpN2TbP8iDHlWvCYUf4qGX3ni3a?e=ehByZf
+
+
 # Diseño de gripper
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_1.PNG" />
@@ -63,7 +70,11 @@ Manual del operador utilizado para la instalación del software requerido.
 
 https://library.e.abb.com/public/7d9f228617b746a98aebbf830b1b08f0/3HAC032104%20OM%20RobotStudio-es.pdf
 
-Video paso a paso de instación de software
+Manual de RAPID utilizado.
+
+https://github.com/AI2313/Robot_on_track/blob/master/Entregable/infoPLC_net_RAPID_Manual_operador.pdf
+
+Video paso a paso de instación de software.
 
 https://www.youtube.com/watch?v=72noUgD_hk0&t=188s
 
@@ -72,7 +83,7 @@ https://www.youtube.com/watch?v=XprKv2AyUyk
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+Las pruebas realizadas dentro del proyecto se logran paso a paso con los siguientes link:
 
 https://www.youtube.com/watch?v=TdLE9qJyBvM
 
@@ -84,19 +95,26 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
 
 ### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+# Verificación del funcionamiento de la estación
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/1.JPG" />
+</p>
 
-```
-Da un ejemplo
-```
+# Señales de smartgripper
 
-### Y las pruebas de estilo de codificación ⌨️
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/3.JPG" />
+</p>
 
-_Explica que verifican estas pruebas y por qué_
+# Señales del smart componet
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/4.JPG" />
+</p>
 
-```
-Da un ejemplo
-```
+# Logic system 
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/5.JPG" />
+</p>
 
 ## Despliegue 📦
 
