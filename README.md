@@ -136,7 +136,7 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
 ## Autores ✒️
 
 * **Elida Domínguez** - *Documentación-Pruebas* - [elida](https://github.com/elida1412)
-* **Alex Montero** - *Documentación-Pruebas* - [A12313](https://github.com/A12313)
+* **Alex Montero** - *Documentación-Pruebas* - [AI2313](https://github.com/AI2313)
 
 ## Expresiones de Gratitud 🎁
 
