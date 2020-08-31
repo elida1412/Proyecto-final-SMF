@@ -1,4 +1,4 @@
-##PROYECTO FINAL-SMF
+### PROYECTO FINAL-SMF
 # DESPALETIZACIÓN DE OBJETOS CON ROBOT ON TRACK Y ACTUADOR TIPO GRIPPER
 
 Este proyecto consiste en el despaletizado de cajas que ingresan al sistema con ayuda de una banda transportadora, donde son
